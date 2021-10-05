@@ -4,4 +4,8 @@ second change
 
 third attempt
 
+<<<<<<< HEAD
 changes by pratik
+=======
+changes by Amrit
+>>>>>>> 62bdf23083eb90380b2f139069fcaa59394a9b77
